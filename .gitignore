@@ -1,0 +1,15 @@
+/.gradle/
+/.idea/
+/app/build
+/app/libs
+/app/src/androidTest
+/app/src/test
+/app/build.gradle.kts
+/app/proguard-rules.pro
+/gradle/
+/build.gradle.kts
+/gradle.properties
+/gradlew
+/gradlew.bat
+/local.properties
+/settings.gradle.kts
